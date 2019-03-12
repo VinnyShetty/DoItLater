@@ -79,7 +79,7 @@ CustomAdapter customAdapter;
 //                lv.setAdapter(aa);
                 //textViewQueryResult.setText(stringBuilderQueryResult.toString());
             } else {
-                //textViewQueryResult.setText("No Contacts in device");
+               //textViewQueryResult.setText("No Contacts in device");
             }
 
 
